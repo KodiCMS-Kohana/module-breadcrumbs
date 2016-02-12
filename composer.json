@@ -1,5 +1,5 @@
 {
-	"name":        "kodicms/breadcrumbs",
+	"name":        "kodicms_kohana/breadcrumbs",
 	"type":        "kodicms-module",
 	"description": "The official KodiCMS breadcrumbs module",
 	"homepage":    "http://www.kodicms.ru/",
